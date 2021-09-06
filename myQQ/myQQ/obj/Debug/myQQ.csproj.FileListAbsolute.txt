@@ -1,0 +1,9 @@
+G:\我的云端硬盘\csharp\myQQ\myQQ\bin\Debug\myQQ.exe.config
+G:\我的云端硬盘\csharp\myQQ\myQQ\bin\Debug\myQQ.exe
+G:\我的云端硬盘\csharp\myQQ\myQQ\bin\Debug\myQQ.pdb
+G:\我的云端硬盘\csharp\myQQ\myQQ\obj\Debug\myQQ.csproj.AssemblyReference.cache
+G:\我的云端硬盘\csharp\myQQ\myQQ\obj\Debug\myQQ.Properties.Resources.resources
+G:\我的云端硬盘\csharp\myQQ\myQQ\obj\Debug\myQQ.csproj.GenerateResource.cache
+G:\我的云端硬盘\csharp\myQQ\myQQ\obj\Debug\myQQ.csproj.CoreCompileInputs.cache
+G:\我的云端硬盘\csharp\myQQ\myQQ\obj\Debug\myQQ.exe
+G:\我的云端硬盘\csharp\myQQ\myQQ\obj\Debug\myQQ.pdb
