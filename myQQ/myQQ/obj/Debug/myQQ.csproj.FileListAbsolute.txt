@@ -7,3 +7,4 @@ G:\我的云端硬盘\csharp\myQQ\myQQ\obj\Debug\myQQ.csproj.GenerateResource.ca
 G:\我的云端硬盘\csharp\myQQ\myQQ\obj\Debug\myQQ.csproj.CoreCompileInputs.cache
 G:\我的云端硬盘\csharp\myQQ\myQQ\obj\Debug\myQQ.exe
 G:\我的云端硬盘\csharp\myQQ\myQQ\obj\Debug\myQQ.pdb
+G:\我的云端硬盘\csharp\myQQ\myQQ\obj\Debug\myQQ.LoginForm.resources
